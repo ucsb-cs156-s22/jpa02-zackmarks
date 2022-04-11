@@ -3,9 +3,8 @@
 Repo: https://github.com/ucsb-cs156-s22/jpa02-zackmarks
 On Heroku: https://cs156-s22-jpa02-zmarks.herokuapp.com
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-zmarks
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
+
+
 
 # About this repo
 
